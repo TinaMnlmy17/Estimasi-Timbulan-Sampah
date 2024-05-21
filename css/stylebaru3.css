@@ -1,0 +1,16 @@
+.navbar .navbar-brand-wrapper {
+  height: 100px !important;
+}
+
+.navbar .navbar-brand-wrapper .brand-logo-mini img {
+  width: calc(100px - 30px) !important;
+  margin-left: 8px !important;
+}
+
+.sidebar .nav .nav-item .nav-link .menu-title {
+  font-size: 17px !important;
+}
+
+.auth .brand-logo img {
+  width: 310px !important;
+}

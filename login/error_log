@@ -1,0 +1,29 @@
+[04-Apr-2024 18:43:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'estimasiregresil_tina9'@'localhost' (using password: YES) in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:44:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'estimasiregresil_tina9'@'localhost' (using password: YES) in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:44:53 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:44:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'estimasiregresil_tina9'@'localhost' (using password: YES) in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:45:18 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/estimasiregresil/public_html/conf/conf.php:9
+Stack trace:
+#0 /home/estimasiregresil/public_html/login/proseslogin.php(14): include()
+#1 {main}
+  thrown in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/estimasiregresil/public_html/conf/conf.php:9
+Stack trace:
+#0 /home/estimasiregresil/public_html/login/proseslogin.php(14): include()
+#1 {main}
+  thrown in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:50:50 UTC] PHP Warning:  Undefined variable $servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:51:07 UTC] PHP Warning:  Undefined variable $servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 18:52:32 UTC] PHP Warning:  Undefined variable $servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:06:19 UTC] PHP Warning:  Undefined variable $servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:07:16 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:08:55 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:10:12 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:11:19 UTC] PHP Warning:  Undefined variable $servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 19:12:05 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 20:27:41 UTC] PHP Notice:  Undefined variable: servername in /home/estimasiregresil/public_html/conf/conf.php on line 9
+[04-Apr-2024 23:14:06 UTC] PHP Notice:  Undefined index: username in /home/estimasiregresil/public_html/login/proseslogin.php on line 18
+[04-Apr-2024 23:14:06 UTC] PHP Notice:  Undefined index: password in /home/estimasiregresil/public_html/login/proseslogin.php on line 19
+[04-May-2024 08:35:53 UTC] PHP Notice:  Undefined index: username in /home/estimasiregresil/public_html/login/proseslogin.php on line 18
+[04-May-2024 08:35:53 UTC] PHP Notice:  Undefined index: password in /home/estimasiregresil/public_html/login/proseslogin.php on line 19
